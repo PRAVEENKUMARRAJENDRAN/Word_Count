@@ -12,8 +12,6 @@ How to count the number of words in a sentences:
 ```Python
 from word_count import WordCount
 
-
-
 # Call the multiply method
 result = WordCount.counter("Python Library")
 ```
